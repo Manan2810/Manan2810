@@ -5,7 +5,7 @@ About Me 🧑<br>
 <br>
 🤠 He/Him<br>
 📕 Currently, I am studying Computer engineering.<br>
-🌱 I’m currently learning **Web Development and new technologies and frameworks.**
+🌱 I’m currently learning Web Development and new technologies and frameworks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
