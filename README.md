@@ -1,3 +1,4 @@
+![logo](https://github.com/Manan2810/Manan2810/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manan Mehra</h1>
 <h4 align="center">I am a sophomore at Thapar Institute of Engineering and Technology pursuing Computer Engineering. I have a keen interest in Web Development and learning new technologies.</h4>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
