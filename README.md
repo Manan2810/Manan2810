@@ -27,5 +27,5 @@ About Me 🧑<br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manan2810&show_icons=true&locale=en" alt="Manan-Mehra" />
 </p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2810&" alt="manan2810" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2810&" alt="manan2810" /></p>
 
