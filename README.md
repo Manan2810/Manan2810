@@ -14,6 +14,7 @@ About Me 🧑<br>
 <a href="https://twitter.com/mananmehra2810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mananmehra2810" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manan-mehra-2755a6205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-mehra-2755a6205" height="30" width="40" /></a>
 <a href="https://instagram.com/mananmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mananmehra" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mananmehra330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mananmehra330" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manan_mehra28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manan_mehra28" height="30" width="40" /></a>
 <a href="https://discord.gg/anonymous👻#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anonymous👻#0001" height="30" width="40" /></a>
 </p>
@@ -27,5 +28,5 @@ About Me 🧑<br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manan2810&show_icons=true&locale=en" alt="Manan-Mehra" />
 </p>
 
-<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2810&" alt="manan2810" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2810&" alt="manan2810" /></p>
 
