@@ -32,4 +32,4 @@ About Me 🧑<br>
 </p>
 
 <p>______________<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2810&" alt="manan2810" />______________</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manan2810" alt="Manan2810" /></a> </p>
